@@ -1,0 +1,134 @@
+{
+  "productos": [
+    {
+      "nombre": "Zandalias",
+      "image": "https://sc01.alicdn.com/kf/H316c16d959cd4e89a60ba7923e589cf76.jpg",
+      "costo": "200",
+      "idDepartamento": 2,
+      "cedulaCategoria": 6,
+      "id": 4
+    },
+    {
+      "nombre": "bikini",
+      "image": "https://www.lecturas.com/medio/2021/05/20/bikini-de-tiro-alto_1e20323d_800x1200.jpg",
+      "costo": "73",
+      "idDepartamento": 1,
+      "cedulaCategoria": 1,
+      "id": 6
+    },
+    {
+      "nombre": "Pijama infantil",
+      "image": "https://ae01.alicdn.com/kf/HTB1Sm6vRpXXXXcNXVXXq6xXFXXXZ/Pijama-de-tigre-Kigurumi-para-ni-os-mono-de-Animal-ropa-de-dormir-de-franela-c.jpg_Q90.jpg_.webp",
+      "costo": "145",
+      "idDepartamento": 1,
+      "cedulaCategoria": 3,
+      "id": 9
+    },
+    {
+      "nombre": "Vestido de gala",
+      "image": "https://i.pinimg.com/originals/98/6f/da/986fdabf8c237f06ad1f22963cca48ea.jpg",
+      "costo": "300",
+      "idDepartamento": 1,
+      "cedulaCategoria": 1,
+      "id": 10
+    },
+    {
+      "nombre": "Falda de cuero",
+      "image": "https://media.mayoral.com/wcsstore/mayoral/images/catalog/mayoral/falda-pantalon-polipiel-nina_id_11-04907-067-M-2.JPG?v=20210527133558",
+      "costo": "48",
+      "idDepartamento": 1,
+      "cedulaCategoria": 3,
+      "id": 11
+    },
+    {
+      "nombre": "Timberland Pro",
+      "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2017/02/17/14873355668510_674x0.jpg",
+      "costo": "700",
+      "idDepartamento": 2,
+      "cedulaCategoria": 7,
+      "id": 12
+    },
+    {
+      "nombre": "Camiseta de Mickey",
+      "image": "https://m.media-amazon.com/images/I/61zvuAxZHVL._AC_UX425_.jpg",
+      "costo": "22",
+      "idDepartamento": 1,
+      "cedulaCategoria": 3,
+      "id": 14
+    },
+    {
+      "nombre": "Chort ",
+      "image": "https://i.pinimg.com/474x/a8/a4/57/a8a457c6c526914191b078260fd9962f.jpg",
+      "costo": "31",
+      "idDepartamento": 1,
+      "cedulaCategoria": 3,
+      "id": 15
+    },
+    {
+      "nombre": "Adidas",
+      "image": "https://cf.shopee.com.mx/file/55027201b0c5ec7c1be3356bccf5bb39",
+      "costo": "500",
+      "idDepartamento": 2,
+      "cedulaCategoria": 5,
+      "id": 16
+    }
+  ],
+  "departamentos": [
+    {
+      "id": 1,
+      "nombre": "Ropa",
+      "cedulaCategorias": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "id": 2,
+      "nombre": "Calzado",
+      "cedulaCategorias": [
+        4,
+        5,
+        6,
+        7
+      ]
+    }
+  ],
+  "categorias": [
+    {
+      "cedula": 1,
+      "nombre": "Ropa de mujer",
+      "idDepartamento": 1
+    },
+    {
+      "cedula": 2,
+      "nombre": "Ropa de hombre",
+      "idDepartamento": 1
+    },
+    {
+      "cedula": 3,
+      "nombre": "Menores de edad",
+      "idDepartamento": 1
+    },
+    {
+      "cedula": 4,
+      "nombre": "Deportivos de mujer",
+      "idDepartamento": 2
+    },
+    {
+      "cedula": 5,
+      "nombre": "Deportivos de hombre",
+      "idDepartamento": 2
+    },
+    {
+      "cedula": 6,
+      "nombre": "Formales  de mujer",
+      "idDepartamento": 2
+    },
+    {
+      "cedula": 7,
+      "nombre": "Formales  de hombre",
+      "idDepartamento": 2
+    }
+  ]
+}
