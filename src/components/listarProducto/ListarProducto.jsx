@@ -3,7 +3,7 @@ import React, { useEffect, useState } from "react";
 //Importando hoja de estilos
 import estilos from "./ListarProducto.module.css";
 
-//importando a axios
+//Importando a axios
 import axios from "axios";
 
 import Swal from "sweetalert2";
@@ -11,7 +11,7 @@ import Swal from "sweetalert2";
 //Hooks utilizados en redux/toolkit
 import { useDispatch, useSelector } from "react-redux";
 
-//importando las action
+//Importando las action
 import {
   changeShowModal,
   getProductos

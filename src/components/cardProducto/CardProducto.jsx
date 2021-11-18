@@ -7,7 +7,7 @@ import Swal from "sweetalert2";
 //Importando actions
 import { eliminarProducto, changeShowModal, cargarDatosProductoEdicioActiva } from "../../store/slices/productoSlice";
 
-//importando axios
+//Importando axios
 import axios from "axios";
 
 const CardProducto = ({ producto }) => {
