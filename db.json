@@ -3,7 +3,7 @@
     {
       "nombre": "Zandalias",
       "image": "https://sc01.alicdn.com/kf/H316c16d959cd4e89a60ba7923e589cf76.jpg",
-      "costo": "200",
+      "costo": "250",
       "idDepartamento": 2,
       "cedulaCategoria": 6,
       "id": 4
@@ -55,14 +55,6 @@
       "idDepartamento": 1,
       "cedulaCategoria": 3,
       "id": 14
-    },
-    {
-      "nombre": "Chort ",
-      "image": "https://i.pinimg.com/474x/a8/a4/57/a8a457c6c526914191b078260fd9962f.jpg",
-      "costo": "31",
-      "idDepartamento": 1,
-      "cedulaCategoria": 3,
-      "id": 15
     },
     {
       "nombre": "Adidas",
